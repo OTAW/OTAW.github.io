@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Trading API Workgroup
-tagline: nil
+tagline: 
 description: Home Page of the Open Trading API Workgroup  
 ---
 
