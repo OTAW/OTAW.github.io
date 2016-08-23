@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Open Trading API Workgroup
-tagline: Trading API standards
-description:  
+tagline: nil
+description: Home Page of the Open Trading API Workgroup  
 ---
 
 ![](https://avatars1.githubusercontent.com/u/21111890?v=3&s=200)
