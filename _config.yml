@@ -22,6 +22,10 @@ production_url : http://opentradingapi.org
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
 markdown: kramdown
 
+# Enable Search Engine Optimizations (SEO)
+gems:
+  - jekyll-seo-tag
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
